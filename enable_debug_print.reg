@@ -1,7 +1,6 @@
 Windows Registry Editor Version 5.00  
 ; 启用调试打印  
 
-
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Debug Print Filter]   
   
 "DEFAULT"=dword:0000000f
