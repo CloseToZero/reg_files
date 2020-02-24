@@ -1,5 +1,6 @@
 Windows Registry Editor Version 5.00  
-; 启用调试打印  
+
+; Enable debug print
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Debug Print Filter]   
   

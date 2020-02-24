@@ -1,1 +1,1 @@
-# 一些.reg文件
+# Some reg files
